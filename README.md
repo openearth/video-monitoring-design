@@ -11,8 +11,7 @@ Create an pip [environment](https://packaging.python.org/en/latest/guides/instal
 ## Run
 `python main.py`
 
-
-![footprint](https://github.com/openearth/video-monitoring-design/raw/main/src/footprint.png)
-![longshore](https://github.com/openearth/video-monitoring-design/raw/main/src/resolution/longshore-res.png)
-![crossshore](https://github.com/openearth/video-monitoring-design/raw/main/src/resolution/crossshore-res.png)
-![table](https://github.com/openearth/video-monitoring-design/raw/main/src/table.png)
+<img src="https://github.com/openearth/video-monitoring-design/raw/main/src/footprint.png" width="500" height="600">
+<img src="https://github.com/openearth/video-monitoring-design/raw/main/src/resolution/longshore-res.png" width="1000" height="250">
+<img src="https://github.com/openearth/video-monitoring-design/raw/main/src/resolution/crossshore-res.png" width="1000" height="250">
+<img src="https://github.com/openearth/video-monitoring-design/raw/main/src/table.png" width="1000">
