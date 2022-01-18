@@ -1,4 +1,4 @@
-# Video Monitoring design
+# Video Monitoring Design
 This repository contains an object-based camera design toolbox, loosely inspired by the work Irv Elshoff [RIP] did in Deltares, between 2010 and 2013. Primitive code was written in MATLAB. Adapted, re-built and optimized in 2021.
 
 ## Abstract
